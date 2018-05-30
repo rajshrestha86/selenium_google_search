@@ -1,0 +1,330 @@
+1517325036782	geckodriver	INFO	geckodriver 0.19.1
+1517325036786	geckodriver	INFO	Listening on 127.0.0.1:54847
+1517325037884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OgdFkkxmNayB"
+1517325038321	Marionette	INFO	Enabled via --marionette
+1517325039498	Marionette	INFO	Listening on port 37013
+1517325039591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517325132572	geckodriver	INFO	geckodriver 0.19.1
+1517325132575	geckodriver	INFO	Listening on 127.0.0.1:52695
+1517325133678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.g133aZzlSQNQ"
+1517325134128	Marionette	INFO	Enabled via --marionette
+1517325135261	Marionette	INFO	Listening on port 44929
+1517325135286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517325185905	geckodriver	INFO	geckodriver 0.19.1
+1517325185908	geckodriver	INFO	Listening on 127.0.0.1:45467
+1517325187007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yABc22HeV64c"
+1517325187441	Marionette	INFO	Enabled via --marionette
+1517325188611	Marionette	INFO	Listening on port 35017
+1517325188714	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517325229595	geckodriver	INFO	geckodriver 0.19.1
+1517325229598	geckodriver	INFO	Listening on 127.0.0.1:37851
+1517325230698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cbDNEq7rqVt8"
+1517325231129	Marionette	INFO	Enabled via --marionette
+1517325232363	Marionette	INFO	Listening on port 37925
+1517325232410	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517325260077	geckodriver	INFO	geckodriver 0.19.1
+1517325260081	geckodriver	INFO	Listening on 127.0.0.1:36637
+1517325261177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.id4SkrHDmBaQ"
+1517325261645	Marionette	INFO	Enabled via --marionette
+1517325262888	Marionette	INFO	Listening on port 41337
+1517325262984	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517325331676	geckodriver	INFO	geckodriver 0.19.1
+1517325331679	geckodriver	INFO	Listening on 127.0.0.1:60219
+1517325332785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wrqbX3ogbILz"
+1517325333278	Marionette	INFO	Enabled via --marionette
+1517325335024	Marionette	INFO	Listening on port 40435
+1517325335106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517325473693	geckodriver	INFO	geckodriver 0.19.1
+1517325473696	geckodriver	INFO	Listening on 127.0.0.1:45235
+1517325474793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NpaBwTTMFDRh"
+1517325475237	Marionette	INFO	Enabled via --marionette
+1517325476896	Marionette	INFO	Listening on port 38763
+1517325476903	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 7009, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1517325661489	geckodriver	INFO	geckodriver 0.19.1
+1517325661492	geckodriver	INFO	Listening on 127.0.0.1:56969
+1517325662591	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2pxj63kDmHsP"
+1517325663025	Marionette	INFO	Enabled via --marionette
+1517325664195	Marionette	INFO	Listening on port 43725
+1517325664312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+JavaScript error: https://support.cdn.mozilla.net/static/build/common-min.3b0e8abfcc44.js, line 10: Error: Error retrieving geoip data
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517326068081	geckodriver	INFO	geckodriver 0.19.1
+1517326068084	geckodriver	INFO	Listening on 127.0.0.1:55109
+1517326069179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8ErpbmNihIag"
+1517326069632	Marionette	INFO	Enabled via --marionette
+1517326070838	Marionette	INFO	Listening on port 43081
+1517326070895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517326084426	geckodriver	INFO	geckodriver 0.19.1
+1517326084429	geckodriver	INFO	Listening on 127.0.0.1:35305
+1517326085522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dpNgypTcbAsv"
+1517326085978	Marionette	INFO	Enabled via --marionette
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517326087278	Marionette	INFO	Listening on port 42873
+1517326087331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517326309475	geckodriver	INFO	geckodriver 0.19.1
+1517326309478	geckodriver	INFO	Listening on 127.0.0.1:52417
+1517326310584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sRVhPeLF0Sn1"
+1517326311036	Marionette	INFO	Enabled via --marionette
+1517326312192	Marionette	INFO	Listening on port 38797
+1517326312290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517326431253	geckodriver	INFO	geckodriver 0.19.1
+1517326431256	geckodriver	INFO	Listening on 127.0.0.1:46039
+1517326432383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VTVPooJE9JYK"
+1517326432853	Marionette	INFO	Enabled via --marionette
+1517326434135	Marionette	INFO	Listening on port 41779
+1517326434196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517326620510	geckodriver	INFO	geckodriver 0.19.1
+1517326620513	geckodriver	INFO	Listening on 127.0.0.1:46313
+1517326621613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SL9ZzenLusdN"
+1517326622154	Marionette	INFO	Enabled via --marionette
+1517326623381	Marionette	INFO	Listening on port 34833
+1517326623424	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517327158006	geckodriver	INFO	geckodriver 0.19.1
+1517327158009	geckodriver	INFO	Listening on 127.0.0.1:58889
+1517327159102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.a2T4Rdf4Dune"
+1517327159569	Marionette	INFO	Enabled via --marionette
+1517327160833	Marionette	INFO	Listening on port 46103
+1517327160919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517327312105	geckodriver	INFO	geckodriver 0.19.1
+1517327312109	geckodriver	INFO	Listening on 127.0.0.1:42481
+1517327313200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.x40CV8cKFDDX"
+1517327313652	Marionette	INFO	Enabled via --marionette
+1517327314894	Marionette	INFO	Listening on port 44007
+1517327314912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517327402784	geckodriver	INFO	geckodriver 0.19.1
+1517327402787	geckodriver	INFO	Listening on 127.0.0.1:40095
+1517327403890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zkgCuSVH3nG7"
+1517327404361	Marionette	INFO	Enabled via --marionette
+1517327405590	Marionette	INFO	Listening on port 43639
+1517327405606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517328983727	geckodriver	INFO	geckodriver 0.19.1
+1517328983730	geckodriver	INFO	Listening on 127.0.0.1:58625
+1517328984831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PS6pLOiju3ak"
+1517328985280	Marionette	INFO	Enabled via --marionette
+1517328986498	Marionette	INFO	Listening on port 41799
+1517328986549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517329313892	geckodriver	INFO	geckodriver 0.19.1
+1517329313895	geckodriver	INFO	Listening on 127.0.0.1:59033
+1517329314993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4RulbtERPd8h"
+1517329315439	Marionette	INFO	Enabled via --marionette
+1517329316686	Marionette	INFO	Listening on port 35463
+1517329316711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517329771691	geckodriver	INFO	geckodriver 0.19.1
+1517329771694	geckodriver	INFO	Listening on 127.0.0.1:51025
+1517329772807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BmAhypqixfIl"
+1517329773321	Marionette	INFO	Enabled via --marionette
+1517329774788	Marionette	INFO	Listening on port 42859
+1517329774822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517329924031	geckodriver	INFO	geckodriver 0.19.1
+1517329924035	geckodriver	INFO	Listening on 127.0.0.1:43087
+1517329925139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KyfekUU2Au9v"
+1517329925633	Marionette	INFO	Enabled via --marionette
+1517329926962	Marionette	INFO	Listening on port 42023
+1517329927045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517330516870	geckodriver	INFO	geckodriver 0.19.1
+1517330516874	geckodriver	INFO	Listening on 127.0.0.1:60043
+1517330517974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QxKI3tCRByoW"
+1517330518445	Marionette	INFO	Enabled via --marionette
+1517330519739	Marionette	INFO	Listening on port 34459
+1517330519784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517330775240	geckodriver	INFO	geckodriver 0.19.1
+1517330775243	geckodriver	INFO	Listening on 127.0.0.1:38767
+1517330776344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.652glqEqRzNq"
+1517330776836	Marionette	INFO	Enabled via --marionette
+1517330778106	Marionette	INFO	Listening on port 40751
+1517330778158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517331091356	geckodriver	INFO	geckodriver 0.19.1
+1517331091359	geckodriver	INFO	Listening on 127.0.0.1:57097
+1517331092456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nu0icI9w3aag"
+1517331092966	Marionette	INFO	Enabled via --marionette
+1517331094273	Marionette	INFO	Listening on port 41969
+1517331094363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517331378347	geckodriver	INFO	geckodriver 0.19.1
+1517331378350	geckodriver	INFO	Listening on 127.0.0.1:48465
+1517331379458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.shNPBVNBj7jv"
+1517331379951	Marionette	INFO	Enabled via --marionette
+1517331381275	Marionette	INFO	Listening on port 42137
+1517331381365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d1mlo4htassgww.cloudfront.net/shipyard/js/require-2.3.3.js?version=1517331232, line 5: Error: Load timeout for modules: captcha
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+1517331959822	geckodriver	INFO	geckodriver 0.19.1
+1517331959825	geckodriver	INFO	Listening on 127.0.0.1:38753
+1517331960931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HvKkNOoSiv3f"
+1517331961412	Marionette	INFO	Enabled via --marionette
+1517331962726	Marionette	INFO	Listening on port 43903
+1517331962749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517241314, line 2: Error: No element with id="instafeed" on page.
+JavaScript error: https://d1mlo4htassgww.cloudfront.net/shipyard/js/require-2.3.3.js?version=1517331104, line 5: Error: Load timeout for modules: captcha
+http://requirejs.org/docs/errors.html#timeout
+1517333202284	geckodriver	INFO	geckodriver 0.19.1
+1517333202287	geckodriver	INFO	Listening on 127.0.0.1:46727
+1517333203391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.o3lx9lGnL762"
+1517333203894	Marionette	INFO	Enabled via --marionette
+1517333205202	Marionette	INFO	Listening on port 45107
+1517333205298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517331247, line 2: Error: No element with id="instafeed" on page.
+1517333756480	geckodriver	INFO	geckodriver 0.19.1
+1517333756484	geckodriver	INFO	Listening on 127.0.0.1:45029
+1517333757581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9tCYZUkAuMsx"
+1517333758072	Marionette	INFO	Enabled via --marionette
+1517333759299	Marionette	INFO	Listening on port 33001
+1517333759388	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517331247, line 2: Error: No element with id="instafeed" on page.
+1517334318318	geckodriver	INFO	geckodriver 0.19.1
+1517334318321	geckodriver	INFO	Listening on 127.0.0.1:51821
+1517334319427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HXurBBPmdqsa"
+1517334319899	Marionette	INFO	Enabled via --marionette
+1517334321142	Marionette	INFO	Listening on port 39175
+1517334321234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517331247, line 2: Error: No element with id="instafeed" on page.
+1517334467239	geckodriver	INFO	geckodriver 0.19.1
+1517334467242	geckodriver	INFO	Listening on 127.0.0.1:36413
+1517334468352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fAk1Gcr17Yps"
+1517334468819	Marionette	INFO	Enabled via --marionette
+1517334470115	Marionette	INFO	Listening on port 33317
+1517334470161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517331247, line 2: Error: No element with id="instafeed" on page.
+1517334616409	geckodriver	INFO	geckodriver 0.19.1
+1517334616412	geckodriver	INFO	Listening on 127.0.0.1:51407
+1517334617513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Fws468EtzaM3"
+1517334618076	Marionette	INFO	Enabled via --marionette
+1517334619363	Marionette	INFO	Listening on port 35809
+1517334619421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517331247, line 2: Error: No element with id="instafeed" on page.
+1517334793478	geckodriver	INFO	geckodriver 0.19.1
+1517334793481	geckodriver	INFO	Listening on 127.0.0.1:42057
+1517334794596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Q6JS232snbpa"
+1517334795079	Marionette	INFO	Enabled via --marionette
+1517334796382	Marionette	INFO	Listening on port 44189
+1517334796405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517331247, line 2: Error: No element with id="instafeed" on page.
+1517335135628	geckodriver	INFO	geckodriver 0.19.1
+1517335135633	geckodriver	INFO	Listening on 127.0.0.1:54295
+1517335136737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Y3GTuhTsKiW1"
+1517335137225	Marionette	INFO	Enabled via --marionette
+1517335138435	Marionette	INFO	Listening on port 39061
+1517335138446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517335294295	geckodriver	INFO	geckodriver 0.19.1
+1517335294298	geckodriver	INFO	Listening on 127.0.0.1:51699
+1517335295432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cdGCAoPRh6pY"
+1517335295947	Marionette	INFO	Enabled via --marionette
+1517335297236	Marionette	INFO	Listening on port 39491
+1517335297247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517331247, line 2: Error: No element with id="instafeed" on page.
+1517335374672	geckodriver	INFO	geckodriver 0.19.1
+1517335374675	geckodriver	INFO	Listening on 127.0.0.1:36351
+1517335375793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qt1bw2Rk6nr4"
+1517335376428	Marionette	INFO	Enabled via --marionette
+1517335378014	Marionette	INFO	Listening on port 46455
+1517335378102	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22043, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22043, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517331247, line 2: Error: No element with id="instafeed" on page.
+1517335501589	geckodriver	INFO	geckodriver 0.19.1
+1517335501592	geckodriver	INFO	Listening on 127.0.0.1:57085
+1517335502689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Y57FWv69Bq8w"
+1517335503168	Marionette	INFO	Enabled via --marionette
+1517335504462	Marionette	INFO	Listening on port 42411
+1517335504499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517331247, line 2: Error: No element with id="instafeed" on page.
+1517335853582	geckodriver	INFO	geckodriver 0.19.1
+1517335853585	geckodriver	INFO	Listening on 127.0.0.1:34577
+1517335854689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pKwzYdWhUDHX"
+1517335855204	Marionette	INFO	Enabled via --marionette
+1517335856471	Marionette	INFO	Listening on port 39929
+1517335856508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d1mlo4htassgww.cloudfront.net/shipyard/js/require-2.3.3.js?version=1517331104, line 5: Error: Module name "https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js" has not been loaded yet for context: _. Use require([])
+http://requirejs.org/docs/errors.html#notloaded
+1517335988105	geckodriver	INFO	geckodriver 0.19.1
+1517335988108	geckodriver	INFO	Listening on 127.0.0.1:47551
+1517335989215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4MISvaQp5xLo"
+1517335989749	Marionette	INFO	Enabled via --marionette
+1517335991100	Marionette	INFO	Listening on port 46459
+1517335991124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/usmshared/js/usmJS/instafeed.min.js?version=1517331247, line 2: Error: No element with id="instafeed" on page.
+[Child 23280, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-iXzMln/firefox-58.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
